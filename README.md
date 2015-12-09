@@ -10,7 +10,7 @@ Web SQL<br />
 Bootstrap<br />
 
 #Try it now on your device#
-Just scan the QR code<br />
+Scan the QR code<br />
 ![alt tag](http://i.imgur.com/aBkkp0o.png)<br/>
 Or click on the link below<br/>
 ![alt tag] (http://anepsha.github.io/ProspettoPizzeria)
