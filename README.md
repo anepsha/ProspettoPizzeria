@@ -12,8 +12,6 @@ Bootstrap<br />
 #Try it now on your device#
 Scan the QR code<br />
 ![alt tag](http://i.imgur.com/aBkkp0o.png)<br/>
-Or click on the link below<br/>
-[Link to the desktop version] (http://anepsha.github.io/ProspettoPizzeria)
 
 #Screenshots#
 <h4>Main Page</h4>
