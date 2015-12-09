@@ -13,7 +13,7 @@ Bootstrap<br />
 Just scan the QR code bellow<br />
 ![alt tag](http://i.imgur.com/aBkkp0o.png)<br/>
 Or just click on the link bellow<br/>
-anepsha.github.io/ProspettoPizzeria
+![alt tag] (http://anepsha.github.io/ProspettoPizzeria)
 
 #Screenshots#
 <h4>Main Page</h4>
