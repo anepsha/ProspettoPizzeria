@@ -8,3 +8,20 @@ JavaScript<br />
 jQuery<br />
 Web SQL<br />
 Bootstrap<br />
+
+#Try it now on your device#
+Just scan the QR code bellow<br />
+![alt tag](http://i.imgur.com/aBkkp0o.png)
+
+#Screenshots#
+<h4>Main Page</h4>
+<p>Android Device:</p><br/>
+![alt tag](http://i.imgur.com/qx45Xwj.png)
+<h4>Menu Page</h4>
+<p>Android Device:</p><br/>
+![alt tag](http://i.imgur.com/abIQna8.png)
+<h4>Cart Page</h4>
+<p>Android Device:</p><br/>
+![alt tag](http://i.imgur.com/Ae4FN0N.png)
+
+Created in collaboration with Philippe Kornilov, Eleonora Rud.
