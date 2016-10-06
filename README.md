@@ -7,7 +7,7 @@ CSS3<br />
 JavaScript<br />
 jQuery<br />
 Web SQL<br />
-Bootstrap<br />
+Bootstrap Framework<br />
 
 #Deployed to Android with#
 Adobe PhoGap Build
