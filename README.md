@@ -9,8 +9,8 @@ jQuery<br />
 Web SQL<br />
 Bootstrap<br />
 
-#Deployed to Android with PhoneGap#
-
+#Deployed to Android with#
+Adobe PhoGap Build
 #Try it now on your device#
 Scan the QR code on an Android device<br />
 ![alt tag](http://i.imgur.com/aBkkp0o.png)<br/>
