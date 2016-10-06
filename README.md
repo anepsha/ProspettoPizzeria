@@ -24,4 +24,3 @@ Scan the QR code on an Android device<br />
 <p>Android Device:</p><br/>
 ![alt tag](http://i.imgur.com/Ae4FN0N.png)
 
-Created in collaboration with Philippe Kornilov, Eleonora Rud.
