@@ -18,11 +18,12 @@ Scan the QR code on an Android device<br />
 ### Screenshots
 <h4>Main Page</h4>
 <p>Android Device:</p><br/>
-![alt tag](http://i.imgur.com/qx45Xwj.png)
+<img width="180" alt="firstimage" src="https://cloud.githubusercontent.com/assets/15237525/24557404/9574042a-1605-11e7-8756-fa868bc69946.png">
 <h4>Menu Page</h4>
 <p>Android Device:</p><br/>
-![alt tag](http://i.imgur.com/abIQna8.png)
+<img width="180" alt="secondimage" src="https://cloud.githubusercontent.com/assets/15237525/24557451/b626464c-1605-11e7-8511-08c8cea4e1ab.png">
 <h4>Cart Page</h4>
 <p>Android Device:</p><br/>
-![alt tag](http://i.imgur.com/Ae4FN0N.png)
+
+<img width="180" alt="thirdimage" src="https://cloud.githubusercontent.com/assets/15237525/24557482/d370d500-1605-11e7-840b-260791ed9d94.png">
 
