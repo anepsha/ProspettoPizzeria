@@ -1,21 +1,21 @@
-#Prospetto Pizzeria#
+# Prospetto Pizzeria
 This mobile application was created to order pizza, beverages and sides. The main page contains a brief description of this application and a carousel slider with current deals. The menu page contains a list of pizzas and beveradges with a brief description and price. The cart page contains all items that were added for checkout with total prices and avalibility to change the product quantity or remove it.
 
-#Built with#
-HTML5<br />
-CSS3<br />
-JavaScript<br />
-jQuery<br />
-Web SQL<br />
-Bootstrap Framework<br />
+### Built with
+- HTML5<br />
+- CSS3<br />
+- JavaScript<br />
+- jQuery<br />
+- Web SQL<br />
+- Bootstrap Framework<br />
 
-#Deployed to Android with#
+### Deployed to Android with
 Adobe PhoGap Build
-#Try it now on your device#
+### Try it now on your device
 Scan the QR code on an Android device<br />
 ![alt tag](http://i.imgur.com/aBkkp0o.png)<br/>
 
-#Screenshots#
+### Screenshots
 <h4>Main Page</h4>
 <p>Android Device:</p><br/>
 ![alt tag](http://i.imgur.com/qx45Xwj.png)
